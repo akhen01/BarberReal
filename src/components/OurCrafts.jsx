@@ -79,11 +79,7 @@ function OurCrafts({state}) {
     <div className='h-dvh text-white w-full'>
         <div>
 
-<<<<<<< HEAD
-            <h1 className='godown text-4xl mb-4 w-full'>
-=======
             <h1 className='godown text-5xl mb-4 w-full font-neonBold'>
->>>>>>> ee64039 (reupdated)
                 View our Barber pricing List
             </h1>
         </div>
@@ -99,13 +95,8 @@ function OurCrafts({state}) {
                             <div className={`opac flex-col p-2 w-4/5 border-b-2 border-b-gray-300 flex justify-start items-start text-start
                                 ${index % 2 === 0 ? "ml-0": "ml-8"}`}>
 
-<<<<<<< HEAD
-                                <p className={` my-2 ${Lisnumbers.includes(index+1) ? "text-black": "text-white"}`}>{cut.service}</p>
-                                <p className='text-xs text-gray-700'>
-=======
                                 <p className={`font-neonBold text-2xl my-2 ${Lisnumbers.includes(index+1) ? "text-black": "text-white "}`}>{cut.service}</p>
                                 <p className='font-reviolaRegular text-gray-700'>
->>>>>>> ee64039 (reupdated)
                                     {cut.detail}
                                 </p>
                             </div>

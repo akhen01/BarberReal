@@ -3,12 +3,6 @@
 @tailwind utilities;
 
 @font-face {
-<<<<<<< HEAD
-    font-family: "CustomFont";
-    src: url('../assets/fonts/neon-club-music/NEON CLUB MUSIC/NEON CLUB MUSIC_bold.otf') format('truetype');
-    font-weight: normal;
-    font-style: normal
-=======
     font-family: "Regular";
     src: local('Reilova'),
     url('./assets/Fonts/reilova/Reilova.ttf');
@@ -19,6 +13,4 @@
     font-family: "Bold";
     src: local('NEON-CLUB-MUSIC_bold'),
     url('./assets/Fonts/neon-club-music/NEON-CLUB-MUSIC/NEON-CLUB-MUSIC_bold.otf');
-    
->>>>>>> ee64039 (reupdated)
 }
