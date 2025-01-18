@@ -4,13 +4,12 @@
 
 @font-face {
     font-family: "Regular";
-    src: local('Reilova')
-    url('./assets/Fonts/reilova/Reilova.ttf');
+    src: local('Reilova'),
+    url('./assets/Fonts/reilova/Reilova.ttf')
     
 }
-
 @font-face {
     font-family: "Bold";
-    src: local('NEON-CLUB-MUSIC_bold')
-    url('./assets/Fonts/neon-club-music/NEON-CLUB-MUSIC/NEON-CLUB-MUSIC_bold.otf');
+    src: local('NEON-CLUB-MUSIC_bold'),
+    url('./assets/Fonts/neon-club-music/NEON-CLUB-MUSIC/NEON-CLUB-MUSIC_bold.otf')
 }
