@@ -7,12 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: { 
-<<<<<<< HEAD
-        custom: ['CustomFont', ''], 
-=======
         reviolaRegular: ['Regular'], 
         neonBold: ['Bold'], 
->>>>>>> ee64039 (reupdated)
       }, 
       scrollSnapType: { 
         none: 'none', 
