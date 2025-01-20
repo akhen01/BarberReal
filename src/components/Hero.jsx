@@ -36,7 +36,7 @@ function Hero() {
         <div className=' flex mt-8 w-full justify-center items-center'>
         <h1
                         style={{borderRadius: "54% 46% 37% 63% / 39% 60% 40% 61% "}} 
-        className='godown -mb-12 w-1/3 p-2 font-bold border-white border-b-2 text-8xl text-white'>
+        className='godown -mb-16 w-1/3 p-2 font-bold border-white border-b-2 text-8xl text-white'>
             Crown You
         </h1>
         </div>
