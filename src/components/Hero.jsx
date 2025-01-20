@@ -58,7 +58,7 @@ function Hero() {
                 </h1> */}
                 <p 
                 style={{borderRadius: "54% 46% 37% 63% / 39% 60% 40% 61% "}}
-                className='-mt-24 p-12 border-gray-500 border-t-2 border-r-2  text-white text-3xl font-bold text-balance w-full'>Where Excellence Meets Elegance. Experience unmatched precision and style, tailored just for you. Your journey to sophistication begins with us.</p>
+                className='-mt-32 p-12 border-gray-500 border-t-2 border-r-2  text-white text-3xl font-bold text-balance w-full'>Where Excellence Meets Elegance. Experience unmatched precision and style, tailored just for you. Your journey to sophistication begins with us.</p>
             </div>
             <div className='font-reviolaRegular flex flex-col w-1/4 h-full px-3'>
                 <div className='godown text-white mb-8 w-full rounded-t-full h-2/5 overflow-hidden border-t-8 border-white pt-2'>
