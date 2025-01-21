@@ -32,7 +32,7 @@ function TheTeam({state}) {
         <div className='flex flex-col h-full justify-center items-center'>
             <div className='w-1/3 border-b-2 border-black'
             style={{borderRadius: "54% 46% 37% 63% / 39% 60% 40% 61% "}}>
-            <h1 className='opac text-5xl font-neonBold '>
+            <h1 className='opac text-5xl font-bold font-neonBold '>
                 MEET OUR TEAM
             </h1>
             </div>
@@ -44,8 +44,8 @@ function TheTeam({state}) {
                         <img className="h-full w-full"src={barber1} alt="" />
                     </div>
                         <div className='font-reviolaRegular'>
-                            <h1 className='text-xl font-bold'>The Maestro</h1>
-                            <p className=''>Known for his exceptional attention to detail and mastery in precision cuts, Marcus ensures every client leaves looking their best.</p>
+                            <h1 className='text-2xl font-bold'>The Maestro</h1>
+                            <p className='text-xl'>Known for his exceptional attention to detail and mastery in precision cuts, Marcus ensures every client leaves looking their best.</p>
                         </div>
                 </div>
                 <div className='downgo w-1/3 h-full justify-center items-center flex flex-col rounded-b-full border-b-8 border-b-black -mt-16 pt-12'>
@@ -58,8 +58,8 @@ function TheTeam({state}) {
                         
                     </div>
                     <div className='text-black h-1/2 font-reviolaRegular'>
-                            <h1 className='text-xl font-bold'>The Blade</h1>
-                            <p className=''>Renowned for his innovative styling techniques and ability to create modern, trendsetting looks that keep clients ahead of the fashion curve.</p>
+                            <h1 className='text-2xl font-bold'>The Blade</h1>
+                            <p className='text-xl'>Renowned for his innovative styling techniques and ability to create modern, trendsetting looks that keep clients ahead of the fashion curve.</p>
                     </div>
                 </div>
                 <div className='goup bg-gradient-to-b from-gray-200  to-white w-1/3 h-full justify-center items-center flex flex-col rounded-t-full border-t-8 border-t-black -mt-20'>
@@ -70,8 +70,8 @@ function TheTeam({state}) {
                             src={barber3} alt="" />
                     </div>
                     <div className='font-reviolaRegular'>
-                        <h1 className='text-xl font-bold'>The Artisan</h1>
-                        <p className=''>Celebrated for his warm customer service and his artistic flair in designing personalized haircuts that reflect each client's unique personality.</p>
+                        <h1 className='text-2xl font-bold'>The Artisan</h1>
+                        <p className='text-xl'>Celebrated for his warm customer service and his artistic flair in designing personalized haircuts that reflect each client's unique personality.</p>
                     </div>
                 </div>
             </div>
