@@ -61,7 +61,7 @@ function Hero() {
                 className='-mt-32 p-12 border-gray-500 border-t-2 border-r-2  text-white text-3xl font-bold text-balance w-full'>Where Excellence Meets Elegance. Experience unmatched precision and style, tailored just for you. Your journey to sophistication begins with us.</p>
             </div>
             <div className='font-reviolaRegular flex flex-col w-1/4 h-full px-3'>
-                <div className='godown text-white mb-8 w-full rounded-t-full h-2/5 overflow-hidden border-t-8 border-white pt-2'>
+                <div className='godown text-white mb-4 w-full rounded-t-full h-2/5 overflow-hidden border-t-8 border-white pt-2'>
                     <h1 className='mt-24 text-center m-4' >
                     Call us at (403) 555-0123 to book an appointment or for any inquiries. Our friendly staff is ready to assist you.
                     </h1>
